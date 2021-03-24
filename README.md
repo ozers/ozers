@@ -5,9 +5,7 @@
 - 💬 Ask me about Software Testing and Backend Development
 - 📫 How to reach me: ozer.subasi@gmail.com
 - ⚡ Fun fact: Asgardians aren't technically immortal.
-<html>
-  <h1>test</h1>
-</html>
+
 <!--
 **ozers/ozers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,107 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
+<html>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<style>
+    label {
+        display: inline-block;
+        text-align: right;
+        float: left;
+    }
+
+    input {
+        display: inline-block;
+        text-align: left;
+        float: right;
+    }
+</style>
+<table>
+    <tr>
+        <td>
+            <label>Ana Tutar: </label><input type='text' id='anaTutar'>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input type="radio" id="tutar" name="discountType" value="indirimliTutar"><label
+                for="indirimliTutar">Indirimli Tutarla Hesapla</label><br>
+            <input type="radio" id="yuzde" name="discountType" value="indirimYuzdesi"><label
+                for="indirimYuzdesi">Indirim Yuzdesiyle Hesapla</label><br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label>Indirimli Tutar: </label><input type='text' disabled id='indirimliTutar'>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label>Indirim Yuzdesi: </label><input type='text' disabled id='indirimYuzdesi'>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label>Kac Kisi: </label><input type='text' id='kacKisi'>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input type='submit' value='Hesapla' onClick="hesapla();">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label>Kisi Basi: </label>
+            <input type='text' disabled id='kisiBasi'>
+        </td>
+    </tr>
+</table>
+<script>
+    $(document).ready(function () {
+        $("#tutar").click(function () {
+            $("#indirimliTutar").prop("checked", true);
+            $("#indirimliTutar").prop("disabled", false);
+            $("#indirimYuzdesi").prop("disabled", true);
+        });
+        $("#yuzde").click(function () {
+            $("#indirimYuzdesi").prop("checked", true);
+            $("#indirimYuzdesi").prop("disabled", false);
+            $("#indirimliTutar").prop("disabled", true);
+        });
+    });
+
+    yuzdeHesapla = (indirimliTutar, anaTutar) => {
+        return (1-(indirimliTutar / anaTutar)) * 100;
+    }
+
+    indirimliTutariHesapla = (anaTutar, indirimYuzdesi) => {
+        return anaTutar / indirimYuzdesi;
+    }
+
+    kisiBasi = (indirimliTutar, kacKisi) => {
+        return indirimliTutar / kacKisi;
+    }
+
+    hesapla = () => {
+        var anaTutar = parseFloat(document.getElementById("anaTutar").value);
+        var indirimliTutar = parseFloat(document.getElementById("indirimliTutar").value);
+        var indirimYuzdesi = parseFloat(document.getElementById("indirimYuzdesi").value);
+        var kacKisi = parseInt(document.getElementById("kacKisi").value);
+
+        if (document.getElementById('tutar').checked) {
+            document.getElementById("indirimYuzdesi").value = yuzdeHesapla(indirimliTutar, anaTutar);
+            document.getElementById("kisiBasiTutar").innerHTML = "<label id='kisiBasiTutar'>Kisi Basi: </label>"
+            document.getElementById("kisiBasi").value = kisiBasi(indirimliTutar, kacKisi);
+
+
+        }
+        if (document.getElementById('yuzde').checked) {
+            // document.getElementById("indirimliTutar").value = indirimliTutariHesapla(anaTutar, indirimYuzdesi);
+            document.getElementById("kisiBasiTutar").innerHTML = "<label id='kisiBasiTutar'>Kisi Basi: </label>"
+            document.getElementById("kisiBasi").value = kisiBasi(indirimliTutar, kacKisi);
+        }
+    }
+</script>
+
+</html>
