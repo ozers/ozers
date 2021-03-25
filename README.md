@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-![](./calculator.html)
+![giphy](![giphy](https://media.giphy.com/media/3zyW4BAOm5hxyQDqJ7/giphy.gif))
