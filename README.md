@@ -1,28 +1,40 @@
 ![giphy](https://media.giphy.com/media/E8c4TnAjt7uAo/giphy.gif)
 
-### Hi, I'm Özer! 👋  
+### Hi, I’m **ozers**! 👋
 
-🚀 **Senior Backend Engineer | AWS Community Builder | Serverless Enthusiast**  
+🔧 **Backend & Cloud Engineer | AWS Community Builder**
 
-I specialize in **scalable backend architectures**, leveraging **AWS** and **Node.js** to build efficient, high-performance systems. My expertise lies in **serverless solutions, event-driven architectures, and data optimization**.  
+I build scalable backends with **Node.js**, **TypeScript** & **AWS**, and share my journey via blog posts and community talks.
 
-### 🛠 Expertise  
-- **Backend Development** – Node.js, TypeScript, GraphQL, REST APIs  
-- **AWS Serverless Solutions** – AWS Lambda, API Gateway, DynamoDB, S3  
-- **Database Optimization** – PostgreSQL, MongoDB, Elasticsearch  
-- **Event-Driven & Microservices Architectures** – RabbitMQ, SNS, SQS, WebSockets  
+---
 
-### 🚀 My Project  
-📖 **[Yayınlıyor](https://yayinliyor.com/)** – A platform connecting writers and readers.  
+### 🛠 Expertise
+- **Backend**: Fastify, Express  
+- **Serverless & Cloud**: AWS Lambda, API Gateway, DynamoDB, S3, SNS/SQS  
+- **Data & Caching**: MongoDB, PostgreSQL, Redis  
+- **Messaging**: RabbitMQ  
+- **CI/CD & DevOps**: GitHub Actions, Docker  
 
-### 📝 Writing  
-I share insights on **backend development, AWS, and system design**:  
-📜 **[ozers.medium.com](https://ozers.medium.com/)**  
+---
 
-### 📄 Resume  
-📎 **[Download My CV](https://github.com/ozers/ozers/raw/main/ozersubasi_cv.pdf)**  
+### 🚀 Selected Projects
+- 📖 **[Yayinliyor.com](https://yayinliyor.com/)** – Community-driven book-sharing platform (Next.js, Contentful, Supabase)  
 
-### 📫 Contact  
-📧 **Email**: ozersubasi.dev@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/ozer](https://www.linkedin.com/in/ozer/)  
-🐙 **GitHub**: [ozers](https://github.com/ozers)  
+---
+
+### 📝 Writing
+I share insights on **backend development**, **AWS**, and **system design**:  
+📰 **[ozers.medium.com](https://medium.com/@ozers)**
+
+---
+
+### 📄 Resume
+📎 **[Download My CV](https://github.com/ozers/ozers/raw/main/ozersubasi_cv.pdf)**
+
+---
+
+### 📫 Connect
+🔗 [linkedin.com/in/ozer](https://www.linkedin.com/in/ozer/)  
+🐙 [github.com/ozers](https://github.com/ozers)  
+✉️ ozersubasi.dev@gmail.com  
+🐦 [x.com/ozersubasi](https://x.com/ozersubasi)
