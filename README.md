@@ -38,8 +38,8 @@ I write about backend systems, AWS, and production engineering:
 ---
 
 ### 📄 Resume
-📎 **Download CV:**  
-https://github.com/ozers/ozers/raw/main/ozersubasi_cv.pdf
+📎 **[Download CV](https://github.com/ozers/ozers/raw/main/ozersubasi_cv.pdf)**  
+
 
 ---
 
