@@ -1,40 +1,51 @@
-![giphy](https://media.giphy.com/media/E8c4TnAjt7uAo/giphy.gif)
+### Hi, I’m **Ozer Subasi** 👋
 
-### Hi, I’m **ozers**! 👋
-
-🔧 **Backend & Cloud Engineer | AWS Community Builder**
-
-I build scalable backends with **Node.js**, **TypeScript** & **AWS**, and share my journey via blog posts and community talks.
+**Senior Backend Engineer (Node.js | TypeScript | AWS)**  
+Backend-focused software engineer with strong experience in designing and operating production systems.  
+I build reliable, scalable backend architectures and work on real-world production problems.
 
 ---
 
-### 🛠 Expertise
-- **Backend**: Fastify, Express  
-- **Serverless & Cloud**: AWS Lambda, API Gateway, DynamoDB, S3, SNS/SQS  
-- **Data & Caching**: MongoDB, PostgreSQL, Redis  
-- **Messaging**: RabbitMQ  
-- **CI/CD & DevOps**: GitHub Actions, Docker  
+### 🧠 Focus Areas
+- Production backend systems  
+- Scalable API architectures  
+- Distributed systems & async workflows  
+- Reliability, performance, and system maintainability  
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** JavaScript (Node.js), TypeScript  
+- **Cloud & Infrastructure:** AWS (Lambda, API Gateway, DynamoDB, S3, CloudWatch, SNS, SQS), Serverless, Docker, Kubernetes (basic)  
+- **Datastores:** DynamoDB, PostgreSQL, MySQL, MongoDB, Amazon Neptune, Elasticsearch  
+- **Messaging & Caching:** RabbitMQ, Redis  
+- **APIs & Architecture:** REST, GraphQL, Event-driven systems, Microservices  
+- **Practices:** Performance & reliability, Testing, Payment integrations  
 
 ---
 
 ### 🚀 Selected Projects
-- 📖 **[Yayinliyor.com](https://yayinliyor.com/)** – Community-driven book-sharing platform (Next.js, Contentful, Supabase)  
+- 📖 **[yayinliyor.com](https://yayinliyor.com/)**  
+  Digital publishing platform for authors to publish chapters and collect reader feedback  
+  *(Next.js, Contentful, Supabase)*
 
 ---
 
-### 📝 Writing
-I share insights on **backend development**, **AWS**, and **system design**:  
-📰 **[ozers.medium.com](https://medium.com/@ozers)**
+### ✍️ Writing
+I write about backend systems, AWS, and production engineering:  
+📝 **https://ozers.medium.com**
 
 ---
 
 ### 📄 Resume
-📎 **[Download My CV](https://github.com/ozers/ozers/raw/main/ozersubasi_cv.pdf)**
+📎 **Download CV:**  
+https://github.com/ozers/ozers/raw/main/ozersubasi_cv.pdf
 
 ---
 
 ### 📫 Connect
-🔗 [linkedin.com/in/ozer](https://www.linkedin.com/in/ozer/)  
-🐙 [github.com/ozers](https://github.com/ozers)  
-✉️ ozersubasi.dev@gmail.com  
-🐦 [x.com/ozersubasi](https://x.com/ozersubasi)
+- 🔗 LinkedIn: https://www.linkedin.com/in/ozer  
+- 🌐 Website: https://ozersubasi.com  
+- 🐙 GitHub: https://github.com/ozers  
+- ✉️ Mail: ozersubasi.dev@gmail.com  
+- 🐦 X: https://x.com/ozersubasi
