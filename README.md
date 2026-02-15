@@ -1,51 +1,34 @@
-### Hi, I’m **Ozer Subasi** 👋
+### Hi, I'm Ozer 👋
 
-**Senior Backend Engineer (Node.js | TypeScript | AWS)**  
-Backend-focused software engineer with strong experience in designing and operating production systems.  
-I build reliable, scalable backend architectures and work on real-world production problems.
+Backend engineer based in Istanbul. I mostly work with **Node.js**, **TypeScript**, and **AWS** — building serverless systems, e-commerce backends, and anything that needs to handle real traffic reliably.
 
----
+I've spent the last 6+ years shipping checkout flows, payment integrations, inventory systems, and order management platforms. Recently worked on duty-free stock control for 23 airport stores and a TikTok-style social platform for gamers.
 
-### 🧠 Focus Areas
-- Production backend systems  
-- Scalable API architectures  
-- Distributed systems & async workflows  
-- Reliability, performance, and system maintainability  
+Currently open to new opportunities and building side projects in the meantime.
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** JavaScript (Node.js), TypeScript  
-- **Cloud & Infrastructure:** AWS (Lambda, API Gateway, DynamoDB, S3, CloudWatch, SNS, SQS), Serverless, Docker, Kubernetes (basic)  
-- **Datastores:** DynamoDB, PostgreSQL, MySQL, MongoDB, Amazon Neptune, Elasticsearch  
-- **Messaging & Caching:** RabbitMQ, Redis  
-- **APIs & Architecture:** REST, GraphQL, Event-driven systems, Microservices  
-- **Practices:** Performance & reliability, Testing, Payment integrations  
+### 🔧 What I work with
+
+`Node.js` `TypeScript` `AWS Lambda` `DynamoDB` `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `GraphQL` `Fastify` `Express` `NestJS` `Docker` `Elasticsearch`
+
+Also spent some time with `Kotlin` + `Spring Boot` and currently exploring `Flutter` + `Supabase` for mobile.
 
 ---
 
-### 🚀 Selected Projects
-- 📖 **[yayinliyor.com](https://yayinliyor.com/)**  
-  Digital publishing platform for authors to publish chapters and collect reader feedback  
-  *(Next.js, Contentful, Supabase)*
+### 🚀 Side Projects
+
+- **[yayinliyor.com](https://yayinliyor.com/)** — A platform where writers publish serialized stories. Built with Next.js, Supabase, AWS S3. 150K+ reads so far.
+- **Cordy** — Mobile reading app (iOS & Android) for serialized fiction. Flutter, Supabase, Firebase. Full product lifecycle including CI/CD with Fastlane.
 
 ---
 
 ### ✍️ Writing
-I write about backend systems, AWS, and production engineering:  
-📝 **https://ozers.medium.com**
+
+Sometimes I write about backend stuff and AWS: **[ozers.medium.com](https://ozers.medium.com)**
 
 ---
 
-### 📄 Resume
-📎 **[Download CV](https://github.com/ozers/ozers/raw/main/ozersubasi_cv.pdf)**  
+### 📫 Find me
 
-
----
-
-### 📫 Connect
-- 🔗 LinkedIn: https://www.linkedin.com/in/ozer  
-- 🌐 Website: https://ozersubasi.com  
-- 🐙 GitHub: https://github.com/ozers  
-- ✉️ Mail: ozersubasi.dev@gmail.com  
-- 🐦 X: https://x.com/ozersubasi
+[LinkedIn](https://linkedin.com/in/ozer) · [Website](https://ozersubasi.com) · [X](https://x.com/ozersubasi) · [ozersubasi.dev@gmail.com](mailto:ozersubasi.dev@gmail.com)
