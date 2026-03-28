@@ -42,13 +42,13 @@ Also exploring `Flutter` + `Supabase` for mobile.
 
 ### 🚀 Projects
 
-- **[HookSense](https://hooksense.com)** 🟢 — Real-time webhook inspection and debugging platform. Generate a unique endpoint, watch incoming requests stream live, and replay them with edited headers or body.
-- **[Cordy](https://cordy.isilsugultekin.com)** 🟢 — Mobile reading app (iOS & Android) for serialized fiction by Işılsu Gültekin. Built with Flutter, Supabase, Firebase.
-- **[inboxical](https://inboxical.com)** 🟢 — Email testing API for developers. Create disposable inboxes programmatically, send emails, and assert on what arrived — built for CI/CD pipelines.
-- **[yayinliyor.com](https://yayinliyor.com/)** 🟢 — Community-driven book-sharing platform where readers discover, share, and discuss books together. Built with Next.js, Supabase, AWS S3.
+- **[HookSense](https://hooksense.com)** — Webhook inspection, debugging & testing tool. Catch, inspect, and replay webhooks in real-time via WebSocket. Modern alternative to webhook.site.
+- **[Inboxical](https://inboxical.com)** — Email testing API for developers. Create programmatic test inboxes, receive emails, extract verification codes in CI/CD pipelines. SDKs for Node.js, Playwright & Cypress.
+- **[Cordy](https://cordy.isilsugultekin.com)** — Mobile reading app for my beloved wife (iOS & Android). Flutter, Supabase, Firebase. Full product lifecycle with CI/CD.
+- **[yayinliyor.com](https://yayinliyor.com/)** — Serialized story platform. Next.js, TypeScript, Supabase, AWS S3. 1.5K+ readers, 218K+ reads.
 - **[System Design Canvas](https://github.com/ozers/system-design-canvas)** — Visual system architecture tool. Drag-and-drop, templates, PNG/SVG/Mermaid export. 100% client-side.
-- **[ContractLens](https://github.com/ozers/contractlens)** [![npm](https://img.shields.io/npm/dm/contractlens)](https://www.npmjs.com/package/contractlens) — Runtime API contract validation middleware for Express. Catches breaking changes before your users do.
-- **[Lambda Doctor](https://github.com/ozers/lambda-doctor)** [![npm](https://img.shields.io/npm/dm/lambda-doctor)](https://www.npmjs.com/package/lambda-doctor) — CLI that diagnoses AWS Lambda cold start issues. Static analysis with actionable fixes.
+- **[ContractLens](https://github.com/ozers/contractlens)** [![npm](https://img.shields.io/npm/dm/contractlens)](https://www.npmjs.com/package/contractlens) — Runtime API contract validation middleware for Express. Catches breaking changes before your users do. Like Pact, but one line of middleware.
+- **[Lambda Doctor](https://github.com/ozers/lambda-doctor)** [![npm](https://img.shields.io/npm/dm/lambda-doctor)](https://www.npmjs.com/package/lambda-doctor) — CLI that diagnoses AWS Lambda cold start issues. Static analysis with actionable fixes and estimated ms savings.
 - **[Movie API](https://github.com/ozers/movie-api)** — Fastify REST API with MongoDB, Redis caching, and Grafana/Loki observability stack.
 - **[fastifyjs-supabase-auth](https://github.com/ozers/fastifyjs-supabase-auth)** [![npm](https://img.shields.io/npm/dm/fastifyjs-supabase-auth)](https://www.npmjs.com/package/fastifyjs-supabase-auth) — Fastify plugin for Supabase JWT authentication. Lightweight, type-safe, zero config.
 
